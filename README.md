@@ -2,6 +2,8 @@
 # Roboc Game
 ---
 
+Ce jeu est l'activité permettant de valider le cours de Python d'Openclassrooms. 
+
 Le jeu de Roboc est un jeu multijoueur à jouer en réseau. 
 
 NB: Pour l'instant, il ne fonctionne qu'en local.
